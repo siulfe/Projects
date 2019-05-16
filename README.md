@@ -1,4 +1,4 @@
 # Projects
 Todos mis trabajos, grandes y diminutos
 
-Proximamente montare una app, hecha en flutter
+Para ver trabajos hechos con flutter ir al repositorio: https://github.com/siulfe/projectsFlutter
